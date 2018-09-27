@@ -9,7 +9,7 @@
     </style>
   </head>
   <body>
-    <form  action="/welocme.php" method="post">
+    <form  action="welocme.php" method="post">
       Name: <input type="text" name="fname"><br><br>
       e-mail: <input type="text" name="email">
       <br> <br>
